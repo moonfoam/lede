@@ -82,8 +82,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-netdata=y
           CONFIG_PACKAGE_luci-app-nlbwmon=y
           CONFIG_PACKAGE_luci-app-nps=y
-          CONFIG_PACKAGE_luci-app-samba=y
-          CONFIG_PACKAGE_luci-app-samba4=y
           CONFIG_PACKAGE_luci-app-ttyd=y
           CONFIG_PACKAGE_luci-app-verysync=y
           CONFIG_PACKAGE_luci-app-uugamebooster=y
